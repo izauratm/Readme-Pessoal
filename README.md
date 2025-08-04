@@ -99,14 +99,14 @@
 
 <details>
   <summary><strong>Veja alguns dos meus projetos em destaque</strong></summary>
-  - Outros projetos em breve! / Other projects coming soon!
+  - Acesse meus repositórios / Outros projetos em breve! 
 </details>
 
 ---
 
 <details>
   <summary><strong>See some of my featured projects</strong></summary>
- - Other projects coming soon!
+ - Access my repositories / Other projects coming soon!
 </details>
 
 ---
