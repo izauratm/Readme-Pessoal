@@ -90,11 +90,6 @@
 - 🏞️ Apaixonada por viagens, natureza e novas culturas / Passionate about travel, nature, and new cultures
 - 🧠 Sempre aprendendo algo novo! / Always learning something new!
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izauratm&show_icons=true&theme=radical" alt="Izaura's GitHub Stats" />
-</p>
-
 ---
 
 <details>
