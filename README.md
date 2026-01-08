@@ -99,9 +99,20 @@
 ---
 
 <details>
-  <summary><strong>Veja alguns dos meus projetos em destaque</strong></summary>
+  <summary><strong>🚀 Veja alguns dos meus projetos em destaque:</strong></summary>
   - Acesse meus repositórios / Outros projetos em breve! 
 </details>
+
+---
+
+### 🔗 [API REST - Sistema para gerenciamento de tópicos em um fórum de cursos](https://github.com/izauratm/forumhub) 
+<p> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/API-REST-red?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
+</p> Projeto de API REST com **Spring Boot 3**, incluindo autenticação via Token Bearer (JWT), CRUD de usuários, documentação interativa com Swagger, integração com banco de dados MySQL e testes de requisições com Postman.
 
 ---
 
