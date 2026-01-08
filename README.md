@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedora%20em%20Evolução-%23ff69b4.svg?style=for-the-badge" alt="Desenvolvedora em Evolução"/>
   <img src="https://img.shields.io/badge/Front--End-%232196F3.svg?style=for-the-badge" alt="Front-End"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript&style=for-the-badge" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Back--End-%23FFD600.svg?style=for-the-badge" alt="Back-End"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
   <img src="https://img.shields.io/badge/Mobile-%2300C853.svg?style=for-the-badge" alt="Mobile"/>
   <img src="https://img.shields.io/badge/Alura-Estudante-blue?style=for-the-badge" alt="Alura"/>
   <img src="https://img.shields.io/badge/DIO-Bootcamp%20Santander%202025-orange?style=for-the-badge" alt="DIO Bootcamp Santander 2025"/>
   <img src="https://img.shields.io/badge/ONE-Oracle%20Next%20Education-green?style=for-the-badge" alt="Oracle Next Education"/>
+  <img src="https://img.shields.io/badge/Desenvolvedora%20em%20Evolução-%23ff69b4.svg?style=for-the-badge" alt="Desenvolvedora em Evolução"/>
 </p>
+
 
 
 <h1 align="center">Olá, eu sou a Izaura! / Hello, I am Izaura! 👋</h1>
