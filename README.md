@@ -106,7 +106,8 @@
 ---
 
 ### 🔗 [API REST - Sistema para gerenciamento de tópicos em um fórum de cursos](https://github.com/izauratm/forumhub) 
-<p> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
+<p> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" alt="IntelliJ IDEA"/> 
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/API-REST-red?style=for-the-badge" alt="REST API"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
